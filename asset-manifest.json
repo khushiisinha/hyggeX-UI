@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hyggeX-UI/static/css/main.0c9ef99b.css",
+    "main.js": "/hyggeX-UI/static/js/main.c2d11394.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/hyggeX-UI/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/add.png": "/hyggeX-UI/static/media/add.d7f06df521f11cf5b6c1.png",
+    "static/media/right-chevron.png": "/hyggeX-UI/static/media/right-chevron.f698a3e10dfb77512d5f.png",
+    "static/media/left-chevron.png": "/hyggeX-UI/static/media/left-chevron.fb92703075a97f1d6d4e.png",
+    "static/media/arrow.png": "/hyggeX-UI/static/media/arrow.3e9d8d9d8aec11ed0532.png",
+    "static/media/home2.svg": "/hyggeX-UI/static/media/home2.5106177ee02d1f6574d8822d15587a38.svg",
+    "index.html": "/hyggeX-UI/index.html",
+    "static/media/menu.svg": "/hyggeX-UI/static/media/menu.28c2d6a9540b176505ac1b08262410b9.svg",
+    "main.0c9ef99b.css.map": "/hyggeX-UI/static/css/main.0c9ef99b.css.map",
+    "main.c2d11394.js.map": "/hyggeX-UI/static/js/main.c2d11394.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/hyggeX-UI/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c9ef99b.css",
+    "static/js/main.c2d11394.js"
+  ]
+}
